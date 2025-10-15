@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![GitHub Workflow Status](https://github.com/eraykeskinmac/strands-hubspot/actions/workflows/publish.yml/badge.svg)](https://github.com/eraykeskinmac/strands-hubspot/actions)
 
-**READ-ONLY** HubSpot CRM tool for [Strands Agents SDK](https://github.com/strands-agents/strands). Enables safe CRM data access for AI agents with **zero risk** of data modification.
+**READ-ONLY** HubSpot CRM tool for [Strands Agents SDK](https://github.com/strands-agents/). Enables safe CRM data access for AI agents with **zero risk** of data modification.
 
 ## Features
 
@@ -178,7 +178,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - **PyPI**: [pypi.org/project/strands-hubspot](https://pypi.org/project/strands-hubspot/)
 - **GitHub**: [github.com/eraykeskinmac/strands-hubspot](https://github.com/eraykeskinmac/strands-hubspot)
-- **Strands Agents SDK**: [github.com/strands-agents/strands](https://github.com/strands-agents/strands)
+- **Strands Agents SDK**: [github.com/strands-agents/strands](https://github.com/strands-agents/)
 - **HubSpot API**: [developers.hubspot.com](https://developers.hubspot.com/)
 
 ---
