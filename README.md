@@ -1,6 +1,6 @@
 # strands-hubspot
 
-[![PyPI version](https://img.shields.io/pypi/v/strands-hubspot.svg)](https://pypi.org/project/strands-hubspot/)
+[![PyPI version](https://img.shields.io/badge/PyPI-v0.1.1-blue)](https://pypi.org/project/strands-hubspot/)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/strands-hubspot)](https://pypi.org/project/strands-hubspot/)
 [![Python Support](https://img.shields.io/pypi/pyversions/strands-hubspot.svg)](https://pypi.org/project/strands-hubspot/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
